@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    logo_img: "/images/white-logo-svg-2.svg"
+    logo_img: "/images/rsz_1my_project-5.png"
     logo_img_alt: Logo
     has_nav: true
     nav_links:
