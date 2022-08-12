@@ -8,7 +8,7 @@ sections:
   content: |-
     Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
 
-    We are currently working on **Biome.ID**_(digital identity system)_, **Ureisel**_(gaming metaverse)_, and **The Stryes Manor Marketplace**_(furniture, decor & lighting marketplace)_.
+    We are currently working on **Biome.ID**_(digital identity system)_, **Ureisel**_(gaming + work metaverse)_, and **The Stryes Manor Marketplace**_(furniture, decor & lighting marketplace)_.
   image: "/images/ark-funds-homepage-illustration.svg"
   image_alt: World and Innovation
   actions:
