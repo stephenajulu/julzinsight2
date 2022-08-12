@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    logo_img: images/logo.svg
+    logo_img: "/images/white-logo-svg-2.svg"
     logo_img_alt: Logo
     has_nav: true
     nav_links:
@@ -182,7 +182,7 @@ params:
     content: "&copy; Julz Insight. All rights reserved."
     links: []
   domain: ''
-  favicon: ''
+  favicon: "/images/cc_express_20220212_0559130-09451969505875923.png"
 taxonomies:
   stub: stub
 disableKinds:
