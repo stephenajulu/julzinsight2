@@ -28,7 +28,7 @@ sections:
   title: Features
   subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
     quis lorem malesuada luctus.
-  background: gray
+  background: white
   features:
   - type: feature_item
     template: feature_item
@@ -134,7 +134,7 @@ sections:
   template: section_posts
   section_id: recent-posts
   title: Latest Posts
-  background: gray
+  background: white
   subtitle: ''
 seo:
   type: stackbit_page_meta
