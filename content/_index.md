@@ -115,18 +115,18 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: Contact Us
+  subtitle: Are you interested in partnering up, supporting us or consultation? Then
   actions:
   - type: action
     template: action
-    label: Get Started
-    url: "/signup"
+    label: Get In Touch
+    url: "/contact"
     style: primary
-    has_icon: false
-    icon: ''
-    icon_position: ''
-    new_window: false
+    has_icon: true
+    icon: arrow-right
+    icon_position: right
+    new_window: true
     no_follow: false
 - type: section_posts
   template: section_posts
