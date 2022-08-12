@@ -69,13 +69,13 @@ params:
     sections:
     - type: footer_text
       template: footer_text
-      image: "/images/julzinsightlogofooter.png"
-      image_alt: Julz Insight
+      image: ''
+      image_alt: ''
       image_url: "/"
       content: Julz Insight is a tech & investment company dedicated to creating impactful
         solutions, building innovative brands, and giving you a platform where you
         can invest in said solutions/brands.
-      title: ''
+      title: Julz Insight
     - type: footer_nav
       template: footer_nav
       title: Company
