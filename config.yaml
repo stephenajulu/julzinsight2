@@ -70,7 +70,7 @@ params:
       image: images/logo-alt.svg
       image_alt: Footer logo
       image_url: "/"
-      content: Stackbit theme demo
+      content: Julz Insight
       title: ''
     - type: footer_nav
       template: footer_nav
