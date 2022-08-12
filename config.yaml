@@ -70,7 +70,10 @@ params:
       image: "/images/rsz_1my_project-5.png"
       image_alt: Footer logo
       image_url: "/"
-      content: Julz Insight Co
+      content: |-
+        Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands.
+
+        This Website is built on JAMstack using: Hugo as a static site generator, Forestryio as a CMS, Netlify as a deployment center, and GitHub as a hosting center.
       title: ''
     - type: footer_nav
       template: footer_nav
