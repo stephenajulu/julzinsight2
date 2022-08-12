@@ -2,6 +2,8 @@
 title: Julz Insight
 baseURL: "/"
 params:
+  seo:
+    title: Julz Insight
   palette: blue
   base_font: fira-sans
   header:
