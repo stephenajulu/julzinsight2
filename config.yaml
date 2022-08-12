@@ -5,7 +5,7 @@ params:
   seo:
     title: Julz Insight
   palette: blue
-  base_font: fira-sans
+  base_font: system-sans
   header:
     type: header
     template: header
