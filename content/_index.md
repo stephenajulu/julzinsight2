@@ -140,7 +140,9 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Julz Insight
-  description: Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
+  description: Julz Insight is a tech & investment company dedicated to creating impactful
+    solutions, building innovative brands, and giving you a platform where you can
+    invest in said solutions/brands/products.
   extra:
   - name: og:type
     value: website
@@ -151,7 +153,9 @@ seo:
     keyName: property
     relativeUrl: false
   - name: og:description
-    value: Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
+    value: Julz Insight is a tech & investment company dedicated to creating impactful
+      solutions, building innovative brands, and giving you a platform where you can
+      invest in said solutions/brands/products.
     keyName: property
     relativeUrl: false
   - name: og:image
@@ -167,14 +171,17 @@ seo:
     keyName: ''
     relativeUrl: false
   - name: twitter:description
-    value: Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
+    value: Julz Insight is a tech & investment company dedicated to creating impactful
+      solutions, building innovative brands, and giving you a platform where you can
+      invest in said solutions/brands/products.
     keyName: ''
     relativeUrl: false
   - name: twitter:image
     value: images/hero.png
     relativeUrl: true
     keyName: ''
-  robots: []
+  robots:
+  - all
 layout: landing
 
 ---
