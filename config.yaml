@@ -98,16 +98,6 @@ params:
         no_follow: false
       - type: action
         template: action
-        label: Sign Up
-        url: "/signup"
-        style: link
-        has_icon: false
-        icon: ''
-        icon_position: ''
-        new_window: false
-        no_follow: false
-      - type: action
-        template: action
         label: Contact
         url: "/contact"
         style: link
