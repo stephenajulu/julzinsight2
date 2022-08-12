@@ -118,7 +118,7 @@ sections:
   template: section_cta
   section_id: call-to-action
   title: Contact Us
-  subtitle: Are you interested in partnering up, supporting us or consultation? Then
+  subtitle: Are you interested in partnering up, supporting us or consultation?
   actions:
   - type: action
     template: action
@@ -139,19 +139,19 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Julz Insight
+  description: Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
   extra:
   - name: og:type
     value: website
     keyName: property
     relativeUrl: false
   - name: og:title
-    value: Stackbit Azimuth Theme
+    value: Julz Insight
     keyName: property
     relativeUrl: false
   - name: og:description
-    value: The preview of the Azimuth theme
+    value: Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
     keyName: property
     relativeUrl: false
   - name: og:image
@@ -163,11 +163,11 @@ seo:
     keyName: ''
     relativeUrl: false
   - name: twitter:title
-    value: Stackbit Azimuth Theme
+    value: Julz Insight
     keyName: ''
     relativeUrl: false
   - name: twitter:description
-    value: The preview of the Azimuth theme
+    value: Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
     keyName: ''
     relativeUrl: false
   - name: twitter:image
