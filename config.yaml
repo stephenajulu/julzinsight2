@@ -182,7 +182,7 @@ params:
     content: "&copy; Julz Insight. All rights reserved."
     links: []
   domain: ''
-  favicon: "/images/cc_express_20220212_0559130-09451969505875923.png"
+  favicon: "/images/my-project-4.png"
 taxonomies:
   stub: stub
 disableKinds:
