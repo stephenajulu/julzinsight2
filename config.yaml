@@ -143,7 +143,7 @@ params:
     - type: footer_form
       template: footer_form
       title: Subscribe
-      content: Stay up to date with our latest developments.
+      content: Stay up to date with our latest products, brands & developments.
       form_id: contactForm
       hide_labels: true
       form_fields:
