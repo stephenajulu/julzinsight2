@@ -4,10 +4,10 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Welcome to Julz Insight! The House of Innovation.
+  title: Welcome to Julz Insight
   content: Julz Insight is a tech company dedicated to creating impactful solutions
     and building innovative products using tech.
-  image: "/images/ark-funds-homepage-illustration-1.svg"
+  image: "/images/ark-funds-homepage-illustration.svg"
   image_alt: World and Innovation
   actions:
   - type: action
