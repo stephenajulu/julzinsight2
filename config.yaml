@@ -1,9 +1,12 @@
 ---
 title: Julz Insight
 baseURL: "/"
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+languageCode: "en"
 params:
-  seo:
-    title: Julz Insight
+  description: Julz Insight is a tech & investment company dedicated to creating impactful solutions, building innovative brands, and giving you a platform where you can invest in said solutions/brands/products.
   palette: blue
   base_font: system-sans
   header:
