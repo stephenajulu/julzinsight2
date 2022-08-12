@@ -63,7 +63,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Contact
-  description: This is the contact page
+  description: Get In Touch With Julz Insight
   extra:
   - name: og:type
     value: website
@@ -74,7 +74,7 @@ seo:
     keyName: property
     relativeUrl: false
   - name: og:description
-    value: This is the contact page
+    value: Get In Touch With Julz Insight
     keyName: property
     relativeUrl: false
   - name: twitter:card
@@ -86,10 +86,11 @@ seo:
     keyName: ''
     relativeUrl: false
   - name: twitter:description
-    value: This is the contact page
+    value: Get In Touch With Julz Insight
     keyName: ''
     relativeUrl: false
-  robots: []
+  robots:
+  - all
 layout: landing
 
 ---
