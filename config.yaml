@@ -2,7 +2,7 @@
 title: Julz Insight
 baseURL: "/"
 params:
-  palette: purple
+  palette: blue
   base_font: nunito-sans
   header:
     type: header
