@@ -8,7 +8,7 @@ params:
     type: header
     template: header
     logo_img: "/images/rsz_1my_project-5.png"
-    logo_img_alt: Logo
+    logo_img_alt: Julz Insight
     has_nav: true
     nav_links:
     - type: action
